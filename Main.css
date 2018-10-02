@@ -1,0 +1,151 @@
+@charset "utf-8";
+@import url("edo/stylesheet.css");
+@import url("edosz/stylesheet.css");
+
+
+body p {
+}
+.Buttons {
+	border: 1px solid #000000;
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+	display: inline;
+	min-width: 21px;
+	min-height: 13px;
+}
+.btn.btn-default.btn-circle.btn-xl.text {
+	font-size: 130px;
+	text-align: center;
+	font-family: edo;
+	list-style-type: none;
+	list-style-image: none;
+	text-decoration: none;
+
+}
+
+.footer {
+	text-align: center;
+	width: 212%;
+	background-color: #DCDCDC;
+	position: absolute;
+	max-width: 178px;
+}
+
+.text {
+	font-family: edo;
+	display: inline;
+	text-decoration: none;
+	list-style-image: none;
+	list-style-type: none;
+	margin-right: 17px;
+}
+.btntexty {
+	display: inline;
+	margin-right: 68px;
+	font-family: edo;
+}
+.collapse {
+	display: none;
+}
+section {
+    min-height: 100%;
+}
+body center {
+	font-size: 18px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.slide footer {
+	background-color: #CFCFCF;
+}
+.foote-height {
+	min-width: 0px;
+	background-color: #B9CCD2;
+}
+.foote-height .slide span {
+	margin-right: 41px;
+}
+section white {
+}
+.header {
+	text-align: center;
+	font-family: edosz;
+}
+div div p {
+	font-size: 36px;
+}
+.form {
+	display: inline;
+	float: left;
+	text-align: left;
+	border: 1px solid #000000;
+}
+.forum {
+	display: inline;
+	border-width: 1px;
+	border-style: solid;
+}
+.forums {
+	border-width: 1px;
+	border-style: solid;
+	min-width: 52px;
+	width: 37%;
+
+
+}
+
+.slide .foote-height .slide {
+	margin-bottom: 24px;
+	margin-top: 25px;
+
+
+
+}
+#La {
+}
+.container {
+	margin-left: 13px;
+	margin-top: 9px;
+	margin-bottom: 13px;
+}
+.container .filterDiv img {
+	width: 559px;
+	margin-left: 5px;
+	margin-bottom: 4px;
+}
+.slide div img {
+	display: inline;
+}
+.imgleft {
+}
+.slide .slide a {
+}
+
+.slide .slide a:hover {
+	text-decoration:none
+}
+.slide .slide a:link { color:#333
+}
+.slide .slide a:hover { color:#333
+}
+.slide .slide a: visited {color:#333}
+
+gleft {
+	float: left;
+}
+.hor {
+}
+.vl {
+	border-left: 1px solid black;
+	height: 20px;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	display: inline;
+}
+.slide .slide div {
+	display: inline;
+}
+.inline {
+	display: inline;
+}
